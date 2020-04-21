@@ -1,0 +1,4 @@
+credentials
+.env
+*.json
+Pipfile.lock
